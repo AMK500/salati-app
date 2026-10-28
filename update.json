@@ -1,7 +1,7 @@
 {
   "versionCode": 15,
   "versionName": "2.5",
-  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.5/Salati-صلاتي.apk",
+  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.5/Salati-.apk",
   "changelogAr": "• تحديث عنوان بطاقة الدعم وتحسين مظهر الشاشة.\n• تفعيل ميزة التحديث التلقائي والتثبيت المباشر من داخل التطبيق بضغطة زر واحدة.\n• التحكم الكامل بعبارة (حان الآن موعد أذان...) لكل صلاة اختيارياً.\n• إمكانية تخصيص صوت أذان مختلف لكل صلاة وتسمية الأصوات المضافة وحذفها.",
   "changelogEn": "• Updated support card title.\n• Added in-app updates with 1-click install.\n• Full control over Adhan announcement per prayer.\n• Custom voice per prayer.",
   "releaseDate": "2026-10-28",
