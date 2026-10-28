@@ -1,10 +1,10 @@
 {
-  "versionCode": 15,
-  "versionName": "2.5",
-  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.5/Salati-.apk",
-  "changelogAr": "• تحديث عنوان بطاقة الدعم وتحسين مظهر الشاشة.\n• تفعيل ميزة التحديث التلقائي والتثبيت المباشر من داخل التطبيق بضغطة زر واحدة.\n• التحكم الكامل بعبارة (حان الآن موعد أذان...) لكل صلاة اختيارياً.\n• إمكانية تخصيص صوت أذان مختلف لكل صلاة وتسمية الأصوات المضافة وحذفها.",
-  "changelogEn": "• Updated support card title.\n• Added in-app updates with 1-click install.\n• Full control over Adhan announcement per prayer.\n• Custom voice per prayer.",
+  "versionCode": 16,
+  "versionName": "2.6",
+  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.6/Salati.apk",
+  "changelogAr": "• إضافة شاشة الأذان الكاملة التفاعلية الفاخرة عند دخول وقت الصلاة تظهر فوق شاشة القفل مع عداد الإقامة ودعاء ما بعد الأذان (ميزة اختيارية يمكنك تفعيلها أو إيقافها من إعدادات الأذان).\n• إضافة الاستماع الصوتي للأذكار (أذكار الصباح، المساء، وغيرها) بصوت واضح ومطابق 100% للكلمات المكتوبة دون أي نقص.\n• تحسينات عامة في الأداء واستقرار التطبيق.",
+  "changelogEn": "• Added full-screen interactive Adhan screen upon prayer time with lockscreen support (optional in Adhan settings).\n• Added audio recitation for Athkar perfectly synchronized with written text.\n• General performance optimizations.",
   "releaseDate": "2026-10-28",
   "isForceUpdate": false,
-  "fileSizeBytes": 56703242
+  "fileSizeBytes": 56736102
 }
