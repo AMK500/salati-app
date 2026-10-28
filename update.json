@@ -1,0 +1,10 @@
+{
+  "versionCode": 14,
+  "versionName": "2.4",
+  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.4/Salati-صلاتي.apk",
+  "changelogAr": "• ميزة التحديث التلقائي والتثبيت من داخل التطبيق بضغطة زر واحدة.\n• بطاقة دعم العاملين على التطبيق عبر فودافون كاش مع نسخ الرقم بلمسة واحدة.\n• التحكم الكامل بعبارة (حان الآن موعد أذان...) لكل صلاة اختيارياً.\n• إمكانية تخصيص صوت أذان مختلف لكل صلاة وتسمية الأصوات المضافة وحذفها.",
+  "changelogEn": "• In-App updates with 1-click install.\n• Vodafone Cash support card.\n• Full control over Adhan announcement per prayer.\n• Custom voice per prayer.",
+  "releaseDate": "2026-10-28",
+  "isForceUpdate": false,
+  "fileSizeBytes": 57450029
+}
