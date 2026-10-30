@@ -11,6 +11,9 @@
 
 <p align="center">
   <a href="https://github.com/AMK500/salati-app/releases"><img src="https://img.shields.io/badge/Version-v3.02-emerald.svg?style=for-the-badge&logo=android" alt="Version 3.02" /></a>
+
+<a href="https://github.com/AMK500/salati-app/releases"><img src="https://img.shields.io/github/v/release/AMK500/salati-app?style=for-the-badge&logo=android&color=emerald&label=Version" alt="Latest Release" /></a>
+  
   <a href="https://github.com/AMK500/salati-app"><img src="https://img.shields.io/badge/Platform-Android_8.0+-3DDC84.svg?style=for-the-badge&logo=android" alt="Android 8.0+" /></a>
   <a href="https://github.com/AMK500/salati-app"><img src="https://img.shields.io/badge/Built_With-Jetpack_Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose" alt="Jetpack Compose" /></a>
   <a href="https://github.com/AMK500/salati-app"><img src="https://img.shields.io/badge/Ads-100%25_Free_%26_No_Ads-gold.svg?style=for-the-badge" alt="No Ads" /></a>
