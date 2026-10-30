@@ -1,8 +1,7 @@
-# <img alt="Salati Logo" width="40" style="vertical-align: bottom;" src="https://github.com/user-attachments/assets/3396ca6e-be2f-4a7a-97d1-f87d8c048fde" /> صلاتي | Salati App
+# <img alt="Salati Logo" width="40"  src="https://github.com/user-attachments/assets/3396ca6e-be2f-4a7a-97d1-f87d8c048fde" /> Salati App | صلاتي
 
 <p align="center">
   <img alt="Salati Logo" width="120" src="https://github.com/user-attachments/assets/3396ca6e-be2f-4a7a-97d1-f87d8c048fde" />
-
 </p>
 
 <p align="center">
