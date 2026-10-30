@@ -1,8 +1,7 @@
 # 🕌 صلاتي | Salati App
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AMK500/salati-app/main/app/src/main/res/drawable/app_logo.png" alt="Salati Logo" width="120" height="120" />
-  <img width="1254" height="1254" alt="1792940426629" src="https://github.com/user-attachments/assets/3396ca6e-be2f-4a7a-97d1-f87d8c048fde" />
+  <img alt="Salati Logo" width="120" height="120" src="https://github.com/user-attachments/assets/3396ca6e-be2f-4a7a-97d1-f87d8c048fde" />
 
 </p>
 
