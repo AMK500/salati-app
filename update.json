@@ -1,10 +1,10 @@
 {
-  "versionCode": 26,
-  "versionName": "2.26",
-  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.26/Salati.apk",
-  "changelogAr": "⚠️ تحذير وتنبيه هام لمستخدمي النسخ السابقة (v2.7): لتوحيد مفتاح الأمان الرسمي الدائم، يرجى حفظ سجلاتك أولاً من (الإعدادات ⚙️ ⬅️ النسخ الاحتياطي ⬅️ تصدير ومشاركة JSON)، ثم حذف النسخة القديمة وتثبيت التحديث، ثم الضغط على (استرجاع) لتعود كل صلواتك وحفظك بنسبة 100%.\n\n✨ التعديلات الجديدة في هذا التحديث (v2.26):\n• ⭕ تكبير حجم دوائر التحديد (التشيك بوكس) في الودجات على الشاشة الرئيسية لتصبح 25dp للفروض و 22dp للسنن لتسهيل النقر عليها بكل راحة.\n• ✔️ تصغير علامة الصح البيضاء (✓) وضبطها وتوسيطها في منتصف الدائرة بدقة لتكون متناسقة وأنيقة.",
-  "changelogEn": "⚠️ IMPORTANT NOTICE for older version users: Please backup your history from (Settings ⚙️ -> Backup -> Export JSON), then uninstall the old version and install the update, then tap Restore to keep 100% of your records.\n\n✨ What's New in this Update (v2.26):\n• ⭕ Larger Checkbox Touch Targets: Checkboxes scaled to 25dp for Fard prayers and 22dp for Sunnah prayers for easier tapping.\n• ✔️ Perfectly Centered Checkmark: Resized and accurately centered the white checkmark (✓) inside the circle for a balanced, clean look.",
+  "versionCode": 27,
+  "versionName": "2.27",
+  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.27/Salati.apk",
+  "changelogAr": "⚠️ تحذير وتنبيه هام لمستخدمي النسخ السابقة (v2.7): لتوحيد مفتاح الأمان الرسمي الدائم، يرجى حفظ سجلاتك أولاً من (الإعدادات ⚙️ ⬅️ النسخ الاحتياطي ⬅️ تصدير ومشاركة JSON)، ثم حذف النسخة القديمة وتثبيت التحديث، ثم الضغط على (استرجاع) لتعود كل صلواتك وحفظك بنسبة 100%.\n\n✨ التعديلات الجديدة في هذا التحديث (v2.27):\n• 🔔 إشعارات التحديث التلقائية في الخلفية: يقوم التطبيق الآن بفحص التحديثات الجديدة تلقائياً في الخلفية (كل 4 ساعات، ومع كل أذان، وعند تشغيل الهاتف أو تحديث الودجت) وإرسال إشعار مباشر في شريط الإشعارات فور توفر أي تحديث دون الحاجة لفتح التطبيق.\n• 🚀 التحديث الفوري بضغطة زر: الضغط على إشعار التحديث يفتح التطبيق مباشرة للتحميل والتثبيت الفوري السلس.",
+  "changelogEn": "⚠️ IMPORTANT NOTICE for older version users: Please backup your history from (Settings ⚙️ -> Backup -> Export JSON), then uninstall the old version and install the update, then tap Restore to keep 100% of your records.\n\n✨ What's New in this Update (v2.27):\n• 🔔 Automatic Background Update Notifications: The app now checks for updates in the background (periodically every 4 hours, at adhan times, and on system boot) and alerts you in the status bar as soon as a new version is released.\n• 🚀 Instant One-Tap Update: Tapping the notification takes you directly to the download dialog for instant updating.",
   "releaseDate": "2026-10-31",
   "isForceUpdate": false,
-  "fileSizeBytes": 73059543
+  "fileSizeBytes": 73059602
 }
