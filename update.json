@@ -1,9 +1,9 @@
 {
-  "versionCode": 25,
-  "versionName": "2.25",
-  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.25/Salati.apk",
-  "changelogAr": "⚠️ تحذير وتنبيه هام لمستخدمي النسخ السابقة (v2.7): لتوحيد مفتاح الأمان الرسمي الدائم، يرجى حفظ سجلاتك أولاً من (الإعدادات ⚙️ ⬅️ النسخ الاحتياطي ⬅️ تصدير ومشاركة JSON)، ثم حذف النسخة القديمة وتثبيت التحديث، ثم الضغط على (استرجاع) لتعود كل صلواتك وحفظك بنسبة 100%.\n\n✨ التعديلات الجديدة في هذا التحديث (v2.25):\n• ⭕ تكبير حجم دوائر التحديد (التشيك بوكس) في الودجات على الشاشة الرئيسية للفروض والسنن لتسهيل النقر عليها بوضوح وسلاسة.\n• ✔️ تكبير علامة الصح البيضاء (✓) وزيادة سُمكها وبروزها لتكون واضحة ومقروءة بسهولة.",
-  "changelogEn": "⚠️ IMPORTANT NOTICE for older version users: Please backup your history from (Settings ⚙️ -> Backup -> Export JSON), then uninstall the old version and install the update, then tap Restore to keep 100% of your records.\n\n✨ What's New in this Update (v2.25):\n• ⭕ Larger Checkbox Circles: Increased the size of widget checkbox circles for both Fard and Sunnah prayers for easier tapping.\n• ✔️ Bigger & Bolder Checkmark: Significantly increased the size and stroke width of the white checkmark (✓) for maximum visibility.",
+  "versionCode": 26,
+  "versionName": "2.26",
+  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.26/Salati.apk",
+  "changelogAr": "⚠️ تحذير وتنبيه هام لمستخدمي النسخ السابقة (v2.7): لتوحيد مفتاح الأمان الرسمي الدائم، يرجى حفظ سجلاتك أولاً من (الإعدادات ⚙️ ⬅️ النسخ الاحتياطي ⬅️ تصدير ومشاركة JSON)، ثم حذف النسخة القديمة وتثبيت التحديث، ثم الضغط على (استرجاع) لتعود كل صلواتك وحفظك بنسبة 100%.\n\n✨ التعديلات الجديدة في هذا التحديث (v2.26):\n• ⭕ تكبير حجم دوائر التحديد (التشيك بوكس) في الودجات على الشاشة الرئيسية لتصبح 25dp للفروض و 22dp للسنن لتسهيل النقر عليها بكل راحة.\n• ✔️ تصغير علامة الصح البيضاء (✓) وضبطها وتوسيطها في منتصف الدائرة بدقة لتكون متناسقة وأنيقة.",
+  "changelogEn": "⚠️ IMPORTANT NOTICE for older version users: Please backup your history from (Settings ⚙️ -> Backup -> Export JSON), then uninstall the old version and install the update, then tap Restore to keep 100% of your records.\n\n✨ What's New in this Update (v2.26):\n• ⭕ Larger Checkbox Touch Targets: Checkboxes scaled to 25dp for Fard prayers and 22dp for Sunnah prayers for easier tapping.\n• ✔️ Perfectly Centered Checkmark: Resized and accurately centered the white checkmark (✓) inside the circle for a balanced, clean look.",
   "releaseDate": "2026-10-31",
   "isForceUpdate": false,
   "fileSizeBytes": 73059543
