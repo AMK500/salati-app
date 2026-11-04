@@ -1,10 +1,10 @@
 {
-  "versionCode": 28,
-  "versionName": "2.28",
-  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.28/Salati.apk",
-  "changelogAr": "✨ التحديث الجديد v2.28:\n• 📥 حفظ التحديث في مجلد التنزيلات (Downloads): عند تنزيل التحديث من داخل التطبيق، يتم حفظ ملف الـ APK مباشرة وبشكل رسمي داخل مجلد التنزيلات (Downloads) بهاتفك باسم Salati-v2.28.apk لتسهيل الوصول إليه وتثبيته في أي وقت.\n• ⚡ تحسين سرعة وسلاسة التنزيل والتثبيت المباشر.\n• 🛠️ تحسينات عامة في استقرار التطبيق والتحقق من التحديثات التلقائية في الخلفية.",
-  "changelogEn": "✨ New in Update v2.28:\n• 📥 Save Update to Downloads: When downloading an in-app update, the APK is now automatically saved directly to your phone's public Downloads folder as Salati-v2.28.apk for easy access and manual reinstall.\n• ⚡ Improved download reliability and direct install flow.\n• 🛠️ General performance stability and background update check enhancements.",
+  "versionCode": 29,
+  "versionName": "2.29",
+  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.29/Salati.apk",
+  "changelogAr": "✨ التحديث الجديد v2.29:\n• ⏱️ إشعار مواقيت الصلاة الدائم (اختياري): إشعار ثابت وأنيق في شريط الإشعارات يعرض الصلاة القادمة مع عداد تنازلي حي بالثواني والدقائق والساعات بدقة متناهية دون استهلاك للبطارية، منفصل عن باقي الإشعارات مع زر للتحكم السريع.\n• 🔕 كتم صوت الصلاة القادمة فقط: زر ذكي في بطاقة الصلاة والشريط العلوي وزر الإعدادات السريعة يسمح بكتم أذان الصلاة القادمة فقط، مع إمكانية إلغاء الكتم بضغطة واحدة، وتعود الأصوات للعمل تلقائياً فور انتهاء موعد الصلاة أو مع بداية اليوم الجديد دون أي تدخل منك.\n• ⚡ إشعارات التحديث الفورية: فحص ذكي وسريع في الخلفية يتفاعل فوراً عند الاتصال بالإنترنت، وفتح قفل الشاشة، وبشكل دوري كل 30 دقيقة لوصول إشعار التحديث فور صدوره مباشرة.",
+  "changelogEn": "✨ New in Update v2.29:\n• ⏱️ Persistent Live Prayer Countdown Notification (Optional): A clean, battery-efficient notification in the status bar showing the next prayer with a live ticking countdown in hours, minutes, and seconds, completely separated from regular app alerts.\n• 🔕 Mute Next Prayer Only: A dedicated toggle in the hero card, notification bar, and Quick Settings tile to mute the adhan of the upcoming prayer only. You can tap to unmute anytime, and sound automatically restores after the prayer passes or on the new day.\n• ⚡ Real-Time Update Notifications: Proactive background polling triggered on internet reconnection, screen unlock, and every 30 minutes to notify all users immediately as updates drop.",
   "releaseDate": "2026-11-04",
   "isForceUpdate": false,
-  "fileSizeBytes": 73059832
+  "fileSizeBytes": 73076310
 }
