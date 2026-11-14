@@ -1,10 +1,10 @@
 {
-  "versionCode": 32,
-  "versionName": "2.32",
-  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.32/Salati-v2.32.apk",
-  "changelogAr": "✨ التحديث الجديد v2.32:\n• 🛡️ توافق أمني كامل مع حماية Google Play Protect: تنظيف الصلاحيات وإزالة الصلاحيات الحساسة القديمة لضمان اجتياز فحص الأمان بنجاح وتثبيت التطبيق بسلاسة تامة دون حظر أو تحذيرات.\n• 🕌 كتم أذان صلاة الجمعة تلقائياً (اختياري): ميزة جديدة في إعدادات الأذان لكتم صوت أذان الجمعة تلقائياً لمنع أي إحراج أثناء الاستماع للخطبة والصلاة في المسجد، مع إبقاء إشعار صامت.\n• ⏱️ إشعار مواقيت الصلاة الدائم (اختياري): إشعار ثابت وأنيق في شريط الإشعارات يعرض الصلاة القادمة بعداد تنازلي حي بالثواني والدقائق والساعات دون استهلاك للبطارية.\n• 🔕 كتم صوت الصلاة القادمة فقط: زر ذكي لكتم أذان الصلاة القادمة فقط مع عودة الصوت تلقائياً بعد انقضاء الصلاة.\n• 📊 تحسينات شاشة الإحصائيات: محاذاة الأيام المتتالية وتوسيط أرقام الفرائض والسنن وعرض أسماء الأيام الفعلية.\n• 💾 نسخ احتياطي شامل 100%: تصدير واسترجاع كافة البيانات والإعدادات بنقرة واحدة.",
-  "changelogEn": "✨ New in Update v2.32:\n• 🛡️ Clean Security & Google Play Protect Compatibility: Removed sensitive legacy permissions to ensure smooth installation and pass security scans without blocking.\n• 🕌 Auto-Mute Friday Prayer & Adhan (Optional): Silence Friday prayer adhan automatically during Friday sermon and prayer.\n• ⏱️ Persistent Live Countdown Notification: Status bar notification with live ticking countdown in hours, minutes, and seconds.\n• 🔕 Mute Next Prayer Only: Smart toggle to mute next prayer adhan with automatic restore.\n• 📊 Stats Enhancements: Streak alignment, centered counts, and explicit day names.\n• 💾 100% Full Backup & Restore.",
-  "releaseDate": "2026-11-04",
+  "versionCode": 33,
+  "versionName": "2.33",
+  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.33/Salati-v2.33.apk",
+  "changelogAr": "✨ التحديث الجديد v2.33:\n• 🎨 أيقونة جديدة للتطبيق: تحديث أيقونة التطبيق الرسمية على سطح المكتب وقائمة التطبيقات بجودة فائقة الدقة.\n• 🔔 أيقونة شفافة مخصصة لشريط الإشعارات: اعتماد الأيقونة الشفافة المخصصة في شريط الإشعارات وفي أدوات الإعدادات السريعة (كتم الأذان واتجاه القبلة).\n• ⏱️ دقة متناهية لموعد الأذان: حل مشكلة بدء الأذان مبكراً ببضع ثوانٍ، وضمان انطلاقه في الثانية الدقيقة للوقت الفعلي عبر منبه النظام الدقيق (Exact AlarmClock).\n• 🔕 حل مشكلة تكرار الأذان نهائياً: منع تشغيل الأذان مرة ثانية إذا تم إيقافه بعد البدء، وضمان جدولة الصلوات التالية لليوم التالي فور انطلاقها.\n• 🕌 كتم أذان صلاة الجمعة تلقائياً (اختياري): كتم صوت أذان الجمعة أثناء الخطبة والصلاة في المسجد.\n• ⏱️ إشعار مواقيت الصلاة الدائم وكتم الصلاة القادمة فقط.\n• 📊 تحسينات شاشة الإحصائيات والنسخ الاحتياطي الشامل 100%.",
+  "changelogEn": "✨ New in Update v2.33:\n• 🎨 Brand New App Icon: Updated official high-resolution icon for desktop, launcher, and app drawer.\n• 🔔 Transparent Notification Icon: Added transparent custom icon for notification bar and Quick Settings tiles.\n• ⏱️ Precision Adhan Timing: Fixed early adhan firing issue using high-precision Exact AlarmClock to guarantee exact second timing.\n• 🔕 Fixed Duplicate Adhan Bug: Completely prevented adhan from repeating if stopped, and prevented duplicate scheduling.\n• 🕌 Auto-Mute Friday Prayer & Adhan (Optional).\n• ⏱️ Persistent Live Countdown Notification & Next Prayer Mute.\n• 📊 Enhanced Stats & 100% Full Backup.",
+  "releaseDate": "2026-11-14",
   "isForceUpdate": false,
-  "fileSizeBytes": 73076050
+  "fileSizeBytes": 72564667
 }
