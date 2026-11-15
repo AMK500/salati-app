@@ -1,10 +1,10 @@
 {
-  "versionCode": 36,
-  "versionName": "2.36",
-  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.36/Salati-v2.36.apk",
-  "changelogAr": "✨ التحديث الجديد v2.36:\n• 🔘 حل تعليق وتداخل دوائر التحديد في الودجت: إصلاح مشكلة تداخل الصلوات عند الضغط ومزامنة التحديد فورياً وبشكل مستقل لكل صلاة (Thread-Safe Single Instance).\n• 🎨 عجلة الألوان الدائرية المخصصة (Color Wheel): اختيار أي لون لثيم التطبيق بدقة فائقة مع التحكم في السطوع والشفافية.\n• 📱 تخصيص مستقل للودجات (Widget Studio): شاشة إعدادات مخصصة عبر أيقونة الترس ⚙️ في الودجت للتحكم الكامل في المظهر.\n• 🌌 نمط سامسونج شبه الشفاف (Samsung Glass): دعم وضع الشبه شفاف الزجاجي الفاخر (داكن أو فاتح) والشفاف بالكامل مع التحكم بنسبة الشفافية من 0% إلى 100%.\n• ⏱️ ودجت جديد مدمج (4×1 أفقي): يعرض الصلاة القادمة وموعد أذانها، مع عد تنازلي مباشر حي بالثواني، وشريط كامل لمواقيت صلوات اليوم الخمس.\n• ⚡ تثبيت التحديث المباشر من داخل التطبيق بسلاسة تامة.",
-  "changelogEn": "✨ New in Update v2.36:\n• 🔘 Fixed Widget Prayer Check Circles Bug: Resolved desynchronization and race conditions when toggling prayer completion circles.\n• 🎨 Circular Color Wheel Picker: Complete 360-degree color wheel with brightness and transparency sliders for custom theme creation.\n• 📱 Independent Widget Customization: Dedicated settings screen accessible via the gear icon ⚙️ on the widget.\n• 🌌 Samsung Semi-Transparent Glass Style: Dark Glass, Light Glass, or Pure Transparent with a 0% - 100% opacity slider.\n• ⏱️ Brand New 4x1 Horizontal Widget: Displays the next prayer, exact adhan time, live ticking countdown, and today's 5 prayer times strip.\n• ⚡ Seamless In-App Direct Installation.",
-  "releaseDate": "2026-11-14",
+  "versionCode": 37,
+  "versionName": "2.37",
+  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.37/Salati-v2.37.apk",
+  "changelogAr": "✨ التحديث الجديد v2.37:\n• ⏱️ حل مشكلة إضافة الودجت الأفقي (4×1): إصلاح خطأ 'تعذر إضافة تطبيق مصغر' على واجهات سامسونج One UI وتوافق تام مع مشغلات أندرويد.\n• 🔘 استقرار تام لدوائر التحديد في الودجت الرئيسي.\n• 🎨 عجلة الألوان الدائرية المخصصة (Color Wheel) لثيم التطبيق.\n• 📱 تخصيص مستقل للودجات (Widget Studio) مع نمط سامسونج شبه الشفاف والتحكم بالشفافية من 0% إلى 100% عبر الترس ⚙️.\n• ⚡ تثبيت التحديث المباشر من داخل التطبيق بسلاسة تامة.",
+  "changelogEn": "✨ New in Update v2.37:\n• ⏱️ Fixed 4x1 Horizontal Widget Placement: Resolved 'Unable to add widget' on Samsung One UI and all launchers.\n• 🔘 Rock-solid prayer circle toggles on main widget.\n• 🎨 Circular Color Wheel Picker for app theme.\n• 📱 Independent Widget Customization with Samsung Semi-Transparent Glass & 0-100% Opacity Slider.\n• ⚡ Seamless in-app direct updates.",
+  "releaseDate": "2026-11-15",
   "isForceUpdate": false,
-  "fileSizeBytes": 72619216
+  "fileSizeBytes": 72619066
 }
