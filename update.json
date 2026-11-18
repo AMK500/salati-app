@@ -1,10 +1,10 @@
 {
-  "versionCode": 37,
-  "versionName": "2.37",
-  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.37/Salati-v2.37.apk",
-  "changelogAr": "✨ التحديث الجديد v2.37:\n• ⏱️ حل مشكلة إضافة الودجت الأفقي (4×1): إصلاح خطأ 'تعذر إضافة تطبيق مصغر' على واجهات سامسونج One UI وتوافق تام مع مشغلات أندرويد.\n• 🔘 استقرار تام لدوائر التحديد في الودجت الرئيسي.\n• 🎨 عجلة الألوان الدائرية المخصصة (Color Wheel) لثيم التطبيق.\n• 📱 تخصيص مستقل للودجات (Widget Studio) مع نمط سامسونج شبه الشفاف والتحكم بالشفافية من 0% إلى 100% عبر الترس ⚙️.\n• ⚡ تثبيت التحديث المباشر من داخل التطبيق بسلاسة تامة.",
-  "changelogEn": "✨ New in Update v2.37:\n• ⏱️ Fixed 4x1 Horizontal Widget Placement: Resolved 'Unable to add widget' on Samsung One UI and all launchers.\n• 🔘 Rock-solid prayer circle toggles on main widget.\n• 🎨 Circular Color Wheel Picker for app theme.\n• 📱 Independent Widget Customization with Samsung Semi-Transparent Glass & 0-100% Opacity Slider.\n• ⚡ Seamless in-app direct updates.",
-  "releaseDate": "2026-11-15",
+  "versionCode": 38,
+  "versionName": "2.38",
+  "apkUrl": "https://github.com/AMK500/salati-app/releases/download/v2.38/Salati-v2.38.apk",
+  "changelogAr": "✨ التحديث الجديد v2.38:\n• 🧭 بوصلة القبلة بالواقع المعزز (AR Qibla Camera): ميزة الواقع المعزز لتحديد اتجاه القبلة عبر كاميرا الهاتف مباشرة بدقة فائقة ثلاثية الأبعاد، مع سهم إرشادي واهتزاز هابتيك فوري عند التوجيه للكعبة المشرفة 🕋.\n• 🖼️ صانع بطاقات المواقيت والأذكار (Share Cards): تصميم بطاقة إسلامية أنيقة وفائقة الدقة بتنسيق (9:16) جاهزة للمشاركة الفورية كـ «حالة واتساب» (WhatsApp Status) أو الحفظ بالمعرض بنقرة واحدة.\n• 📱 ودجات إضافية متميزة لشاشة القفل (Lock Screen & Keyguard): دعم جميع الودجات للظهور على شاشة القفل بجانب الشاشة الرئيسية.\n• ⏱️ ودجت مصغر دائري للصلاة القادمة (1×1): يعرض الصلاة التالية والوقت المتبقي بشكل مدمج.\n• 📿 ودجت المسبحة الإلكترونية السريعة (2×1 أو 1×1): عداد تسبيح تفاعلي مباشر من الشاشة الرئيسية مع زر تصفير واهتزاز ناعم.\n• 📖 ودجت أذكار الصباح والمساء: تبديل ذكي تلقائي بين أذكار الصباح (3ص - 3م) والمساء (3م - 3ص) مع أزرار تنقل تفاعلية.\n• ✨ تصميم زجاجي ثلاثي الأبعاد (Glassmorphism): تأثيرات لمعان ذهبي إسلامي وتحسينات بصرية شاملة.",
+  "changelogEn": "✨ New in Update v2.38:\n• 🧭 AR Qibla Camera Mode: Real-time Augmented Reality compass overlay using phone camera with Kaaba 3D HUD radar, guidance arrows and haptic lock.\n• 🖼️ WhatsApp Status Prayer Card Generator (9:16): Create and share high-res prayer times cards directly to WhatsApp Status or save to Gallery.\n• 📱 Lock Screen & Keyguard Widgets: Full support for displaying widgets on Lock Screen and Always-on.\n• ⏱️ Mini 1x1 Next Prayer Circular Widget: Ultra-compact next prayer countdown.\n• 📿 Interactive Fast Tasbih Widget (2x1 / 1x1): Direct home-screen dhikr counting with reset button and haptics.\n• 📖 Smart Morning & Evening Athkar Widget: Automatic time-based morning/evening switching with next/prev buttons.\n• ✨ Glassmorphism & Islamic Dynamic Ambient Effects: Translucent frosted glass 3D visuals and subtle golden shimmers.",
+  "releaseDate": "2026-11-18",
   "isForceUpdate": false,
-  "fileSizeBytes": 72619066
+  "fileSizeBytes": 72656069
 }
